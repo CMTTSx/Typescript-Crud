@@ -18,3 +18,20 @@ Criação de requisições API REST, e Banco de dados em Mysql utilizando Typesc
 3-EXPRESS
 
 4-POSTMAN
+
+======================================================ENDPOINTS==========================================================================================
+
+
+# GET
+
+/users => Lista todos os usuários
+/users/:userId => Lista usuários por ID.
+
+# POST
+/users => Cria novos usuários
+
+# PUT
+/users/:userId => Update usuários selecionados por ID.
+
+# DELETE
+/users/:userId => Delete de usuários selecionados por ID
