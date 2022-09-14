@@ -23,6 +23,7 @@ Criação de requisições API REST, e Banco de dados em Mysql utilizando Typesc
 # GET
 
 /users => Lista todos os usuários
+
 /users/:userId => Lista usuários por ID.
 
 # POST
