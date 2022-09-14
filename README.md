@@ -19,7 +19,7 @@ Criação de requisições API REST, e Banco de dados em Mysql utilizando Typesc
 
 4-POSTMAN
 
-#======================================================ENDPOINTS============================================
+# ======================================================ENDPOINTS============================================
 # GET
 
 /users => Lista todos os usuários
